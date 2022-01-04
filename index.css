@@ -1,5 +1,10 @@
 body{
     font-family: 'Roboto Condensed', sans-serif;
+    margin: 0;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: none;
 }
 h1 span{
     color: orange;
